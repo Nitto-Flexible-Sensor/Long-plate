@@ -19,3 +19,9 @@
  - High speed : https://github.com/Nitto-Flexible-Sensor/Long-plate/releases/tag/High_speed_v1.0
 
  - 3D model : 
+
+## Questions and Requests
+
+If you have any questions or requests, please coordinate through Discussions.
+
+Discussions URL : https://github.com/Nitto-Flexible-Sensor/Long-plate/discussions
