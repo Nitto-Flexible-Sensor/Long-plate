@@ -7,6 +7,8 @@
   - Multiple measurement
     
   - High speed
+
+  - BLE Communication
     
   - 3D model
 
