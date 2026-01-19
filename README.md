@@ -20,6 +20,8 @@
 
  - High speed : https://github.com/Nitto-Flexible-Sensor/Long-plate/releases/tag/High_speed_v1.0
 
+ - BLE Communication : https://github.com/Nitto-Flexible-Sensor/Long-plate/releases/tag/BLE_Communication_v1
+
  - 3D model : 
 
 ## Questions and Requests
